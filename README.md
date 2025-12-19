@@ -50,7 +50,6 @@ Dive into four comprehensive digital forensics investigations covering:
 - [HackTheBox Platform](https://www.hackthebox.com)
 - [HTB Academy](https://academy.hackthebox.com) - Learn cybersecurity skills
 - [HTB Discord](https://discord.gg/hackthebox) - Join the community
-- [HTB Forums](https://forum.hackthebox.com) - Discuss sherlocks (post-event)
 
 ---
 
