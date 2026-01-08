@@ -36,7 +36,8 @@ Dive into four comprehensive digital forensics investigations covering:
 | **[Part 1](https://app.hackthebox.com/sherlocks/AoTR%25201%253A%2520A%2520Call%2520from%2520the%2520Museum?tab=play_sherlock)** | December 25, 2025 | 🎁 | [📄 PDF](Part%201%20-%20A%20Call%20from%20the%20Museum.pdf) |
 | **[Part 2](https://app.hackthebox.com/sherlocks/AoTR%25202%253A%2520Operation%2520Winter%2520Blackout?tab=play_sherlock)** | December 25, 2025 | 🎁 | N/A |
 | **[Part 3](https://app.hackthebox.com/sherlocks/AoTR%25203%253A%2520The%2520Abandoned%2520Farmhouse?tab=play_sherlock)** | January 1, 2026 | 🎁 | [📄 PDF](Part%203%20-%20The%20Abandoned%20Farmhouse.pdf) |
-| **[Part 4](https://app.hackthebox.com/sherlocks/AoTR%25204%253A%2520A%2520Drone%2520in%2520the%2520Snow?tab=play_sherlock)** | January 8, 2026 | 🔒 | [📄 PDF](Part%204%20-%20A%20Drone%20in%20the%20Snow.pdf) |
+| **[Part 4](https://app.hackthebox.com/sherlocks/AoTR%25204%253A%2520A%2520Drone%2520in%2520the%2520Snow?tab=play_sherlock)** | January 8, 2026 | 🎁 | [📄 PDF](Part%204%20-%20A%20Drone%20in%20the%20Snow.pdf) |
+| **Part 5** | January 8, 2026 | 🎁 | [📄 PDF](Part%205%20-%20Conclusion.pdf) |
 
 </div>
 
